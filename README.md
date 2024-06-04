@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=41ow1ives&show_icons=true&theme=vue&count_private=true
+https://github-readme-stats.vercel.app/api?username=aqweteddy&show_icons=true&theme=vue&count_private=true
 
 ## Hi there 👋, this is Pin Zu Li's Github !
 
