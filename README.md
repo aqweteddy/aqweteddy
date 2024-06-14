@@ -1,5 +1,5 @@
 
-![](https://github-readme-stats.vercel.app/api?username=aqweteddy&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=aqweteddy&show_icons=true&count_private=false)
 
 ## Hi there 👋, this is Pin Zu Li's Github !
 
